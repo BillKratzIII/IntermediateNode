@@ -1,0 +1,15 @@
+{
+  "name": "babel-practice",
+  "version": "1.0.0",
+  "description": "## Objectives: * Update npm * Understand package.lock * Use babel to transpile from ES6 to ES5",
+  "main": "source.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
